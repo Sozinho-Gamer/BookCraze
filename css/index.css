@@ -24,12 +24,6 @@ p {
 h2, p {
     color: #910000;
 }
-.all {
-    width: 100%;
-background-color: #ffffff;
-padding: 20px;
-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 .menu-icon {
     background-color: #cecece85;
     border-radius: 10px;
