@@ -1,0 +1,30 @@
+.noticia {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.noticia h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.noticia p {
+    font-size: 1em;
+    color: #666;
+}
+
+.noticia a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.noticia a:hover {
+    text-decoration: underline;
+}
